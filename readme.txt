@@ -1,2 +1,6 @@
 #readme
-test456
+<<<<<<< HEAD
+test123
+=======
+test123
+>>>>>>> dev
